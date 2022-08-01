@@ -1,4 +1,4 @@
-# In this assignment, we need to read in a block of Shakespeare, *line by line*.
+# In this assignment, we need to read in a block of Shakespeare, *line by line*
 # For each line, we need to split the line into a list of its component words using split()
 # This means the list will be "built" progressively with each line
 # We are then supposed to check and see if each new word on each new line is already in the list
